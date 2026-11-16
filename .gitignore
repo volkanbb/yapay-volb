@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+logs/
+models/
+.pytest_cache/
+.directory
+*.db
+*.sqlite*
+*.lock
+*.log
+.env.*
+!.env.example
+*.onnx
+*.onnx.json
